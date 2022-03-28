@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package ejemplo2_sem2;
-public class Ejemplosguia2_sem2 {
+public class Ejemplo2_sem2 {
 
     public static void main(String[] args) {
         
